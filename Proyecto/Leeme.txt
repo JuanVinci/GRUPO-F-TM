@@ -1,0 +1,21 @@
+INTEGRANTES: SOLIZ, NICOLÁS - VINCI, JUAN
+
+GRUPO F - TM
+
+TEMA PROPUESTO: PÁGINA WEB SERVIGAS SA
+
+Se nos otorgó la posibilidad de desarrollar una página web para la firma SERVIGAS SA localizada en Mendoza, Capital, Argentina. La misma se dedica a la venta de insumos referidos a GNC para el área de estaciones de servicios, y servicio técnico de dispensadores y compresores.
+
+SERVIGAS SA extiende sus productos y servicios en la zona de Cuyo (Mendoza, San Luis y San Juan).
+
+La página será meramente informativa y dará la posibilidad al interesado de contactarse con el sector de ventas de la firma, y además contará con un formulario para postulantes que estén interesados en trabajar para la misma.
+
+Se le añadirá una página administrativa para superusuarios.
+
+Dicha página web implementará las siguientes tecnologías:
+
+	Python
+	Django
+	SQL DB
+	Bootstrap
+	Angular o React
